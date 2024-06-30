@@ -1,0 +1,8 @@
+name: MultipleSpawn
+version: '${project.version}'
+main: net.java_rin.multiplespawn.MultipleSpawn
+api-version: '1.20'
+commands:
+  multiplespawn:
+    permission: multiplespawn.command.main
+    permission-message: You don't have the required permission to use this command.
